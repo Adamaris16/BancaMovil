@@ -5,4 +5,3 @@ CEDEÑO NOHELIA
 MIRANDA MAYERLI
 RIZO NATHALI
 <img src="CAPTURA1.png" width= "500" height="500">
-<img src="CAPTURA2.png" width= "500" height="500">
